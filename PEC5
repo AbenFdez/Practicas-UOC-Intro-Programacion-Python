@@ -1,0 +1,29 @@
+# 🔗 Práctica 5 - Consumo de APIs y trabajo con datos externos
+
+Esta práctica forma parte de la asignatura _Fundamentos de Programación_ del **Grado en Ciencia de Datos Aplicada** (UOC).
+
+## 📄 Descripción
+
+En esta práctica se explora el acceso y tratamiento de datos provenientes de **APIs públicas** mediante código Python. El objetivo es adquirir experiencia en la recuperación de datos externos y su posterior análisis o visualización, utilizando herramientas del ecosistema científico de Python.
+
+## 📁 Contenido
+
+- `prog_datasci_5_api_entrega-2.ipynb`: Notebook que incluye todo el desarrollo de la práctica, desde el consumo de la API hasta el análisis de los datos obtenidos.
+
+## 🛠️ Tecnologías utilizadas
+
+- Python 3.x
+- Google Colab
+- `requests` (o librerías similares para consumo de APIs)
+- `json`
+- Bibliotecas para análisis y visualización de datos
+
+## 🧠 Habilidades desarrolladas
+
+- Conexión a servicios externos mediante peticiones HTTP
+- Gestión y tratamiento de datos en formato JSON
+- Automatización de tareas de análisis de datos
+- Visualización de resultados
+
+---
+
